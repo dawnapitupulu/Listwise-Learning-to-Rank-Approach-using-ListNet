@@ -1,2 +1,2 @@
-# Listwise-Learning-to-Rank-Approach-using-TF-IDF-
+# Listwise-Learning-to-Rank-Approach-using-BM25
 Proyek Matakuliah Information Retrieval

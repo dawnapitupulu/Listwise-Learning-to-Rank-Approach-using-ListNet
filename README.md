@@ -1,2 +1,2 @@
-# Listwise-Learning-to-Rank-Approach-using-BM25
+# Listwise-Learning-to-Rank-Approach-using-ListNet
 Proyek Matakuliah Information Retrieval
